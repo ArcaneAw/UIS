@@ -1,3 +1,4 @@
+--BloodTheme, Ocean, Midnight, Sentinel, Serpent, Synapse, GrapeTheme, LightTheme, DarkTheme
 local Kavo = {}
 
 local tween = game:GetService("TweenService")
