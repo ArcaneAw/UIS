@@ -38,8 +38,6 @@ library.theme = {
 	itemscolor2 = Color3.fromRGB(255, 255, 255)
 }
 
-getgenv().Actyrn7104 = "Discord: Actyrn#7104, Server: .gg/wDngb2mv4H"
-
 if library.theme.cursor then
 	local success = pcall(function()
 		library.cursor = Drawing.new("Image")
